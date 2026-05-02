@@ -13,3 +13,12 @@ using demand and cost.
 1. Install Python
 2. Run:
    python price_optimizer.py
+
+## Output Preview
+
+### Input Screen
+![Input](input.png)
+
+### Output Screen
+![Output](output.png)
+   
