@@ -10,11 +10,13 @@ using demand and cost.
 - Suggests best price
 
 ## How to run
-1. Install Python
-2. Run:
-   python price_optimizer.py
+1. Install Python  
+2. Run:  
+   python price_optimizer.py  
 
 ## Output Preview
+
+This is how the application works — user enters inputs and gets the optimal price output.
 
 ### Input Screen
 ![Input](input.png)
